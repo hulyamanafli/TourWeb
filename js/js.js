@@ -1,0 +1,1 @@
+$('.parallax-window').parallax({imageSrc: 'https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_640,q_60,w_1600/v1/clients/chandler/Hilton_Phoenix_Chandler_Pool_1089476_6c567d2c-4ba4-45f3-86b0-e8afbe18ce7a.jpg'});
